@@ -1,0 +1,10 @@
+2021-08-09 04:38:47,709 - root - INFO: Testing import_data: SUCCESS
+2021-08-09 04:38:47,710 - root - INFO: Rows: 10127	Columns: 22
+2021-08-09 04:38:51,127 - root - INFO: Testing perform_eda: SUCCESS
+2021-08-09 04:38:51,128 - root - INFO: File churn_distribution.png was found
+2021-08-09 04:38:51,128 - root - INFO: File customer_age_distribution.png was found
+2021-08-09 04:38:51,128 - root - INFO: File marital_status_distribution.png was found
+2021-08-09 04:38:51,128 - root - INFO: File total_transaction_distribution.png was found
+2021-08-09 04:38:51,128 - root - INFO: File heatmap.png was found
+2021-08-09 04:38:51,175 - root - INFO: Testing encoder_helper(data_frame, category_lst=[]): SUCCESS
+2021-08-09 04:38:53,088 - root - INFO: Testing encoder_helper(data_frame, category_lst=cat_columns, response=None): SUCCESS
